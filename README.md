@@ -25,5 +25,6 @@ Reading lists for papers, including but not limited to Natural Language Processi
 ## Information Theory
 
 * **Embedding-MI**: "Estimating Mutual Information Between Dense Word Embeddings". ACL(2020) [[PDF]](https://aclanthology.org/2020.acl-main.741.pdf) [[CODE]](https://github.com/babylonhealth/corrsim)
+* **MI-Max**: "A Mutual Information Maximization Perspective of Language Representation Learning". ACL(2020) [[PDF]](https://aclanthology.org/2020.acl-main.741.pdf) [[CODE]](https://github.com/babylonhealth/corrsim)
 
 [Back to Top](#paper-reading)
