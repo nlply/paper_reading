@@ -37,6 +37,6 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **MI-Max**: "A Mutual Information Maximization Perspective of Language Representation Learning". ACL(2020) [[PDF]](https://aclanthology.org/2020.acl-main.741.pdf) [[CODE]](https://github.com/babylonhealth/corrsim)
 
 ## Dataset Construction
+* **Coscript**: "Distilling Script Knowledge from Large Language Models for Constrained Language Planning". ACL(2023) [[PDF]](https://aclanthology.org/2023.acl-long.236/) [[CODE]](https://github.com/siyuyuan/coscript)
 
 [Back to Top](#paper-reading)
-* **Coscript**: "Distilling Script Knowledge from Large Language Models for Constrained Language Planning". ACL(2023) [[PDF]](https://aclanthology.org/2023.acl-long.236/) [[CODE]](https://github.com/siyuyuan/coscript)
