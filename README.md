@@ -3,8 +3,9 @@
 Reading lists for papers, including but not limited to Natural Language Processing (NLP).
 
 - [Deep Learning in NLP](#deep-learning-in-nlp)
-- [Gender Debiasing](#gender-debiasing)
-
+- [Debiasing](#debiasing)
+- [Information Theory](#information-theory)
+- [Dataset Construction](#dataset-construction)
 ***
 
 ## Deep Learning in NLP
@@ -15,8 +16,6 @@ Reading lists for papers, including but not limited to Natural Language Processi
 ### Survey
 * **Empirical Survey**: "An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models". ACL(2022) [[PDF]](https://aclanthology.org/2022.acl-long.132/)[[CODE]](https://github.com/mcgill-nlp/bias-bench) 
 
-
-### Static Embedding
 
 ### Pre-trained Language Models
 * **Attention-Debiasing**: "Debiasing Pretrained Text Encoders by Paying Attention to Paying Attention". EMNLP(2022) [[PDF]](https://aclanthology.org/2022.emnlp-main.651.pdf) [[CODE]](https://github.com/YacineGACI/AttenD)
@@ -37,4 +36,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Embedding-MI**: "Estimating Mutual Information Between Dense Word Embeddings". ACL(2020) [[PDF]](https://aclanthology.org/2020.acl-main.741.pdf) [[CODE]](https://github.com/babylonhealth/corrsim)
 * **MI-Max**: "A Mutual Information Maximization Perspective of Language Representation Learning". ACL(2020) [[PDF]](https://aclanthology.org/2020.acl-main.741.pdf) [[CODE]](https://github.com/babylonhealth/corrsim)
 
+## Dataset Construction
+
 [Back to Top](#paper-reading)
+* **Coscript**: "Distilling Script Knowledge from Large Language Models for Constrained Language Planning". ACL(2023) [[PDF]](https://aclanthology.org/2023.acl-long.236/) [[CODE]](https://github.com/siyuyuan/coscript)
