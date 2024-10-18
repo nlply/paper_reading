@@ -38,5 +38,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 
 ## Dataset Construction
 * **Coscript**: "Distilling Script Knowledge from Large Language Models for Constrained Language Planning". ACL(2023) [[PDF]](https://aclanthology.org/2023.acl-long.236/) [[CODE]](https://github.com/siyuyuan/coscript)
+* **Role of Demonstrations**: "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?". EMNLP(2022) [[PDF]](https://aclanthology.org/2022.emnlp-main.759/) [[CODE]](https://github.com/Alrope123/rethinking-demonstrations)
+* **Order Sensitivity**: "Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity". ACL(2022) [[PDF]](https://aclanthology.org/2022.acl-long.556/)
 
 [Back to Top](#paper-reading)
