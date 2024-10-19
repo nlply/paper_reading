@@ -17,6 +17,9 @@ Reading lists for papers, including but not limited to Natural Language Processi
 ### Survey
 * **Empirical Survey**: "An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models". ACL(2022) [[PDF]](https://aclanthology.org/2022.acl-long.132/)[[CODE]](https://github.com/mcgill-nlp/bias-bench) 
 
+### Static Embeddings
+* **Gender-Neutral**: "Gender-preserving Debiasing for Pre-trained Word Embeddings". ACL(2019) [[PDF]](https://aclanthology.org/P19-1160) [[CODE]](https://github.com/kanekomasahiro/gp_debias)
+
 
 
 ### Pre-trained Language Models
