@@ -31,6 +31,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **SENT-DEBIAS**: "Towards Debiasing Sentence Representations". TACL(2021) [[PDF]](https://aclanthology.org/2020.acl-main.488.pdf) [[CODE]](https://github.com/pliang279/sent_debias)
 * **FairFil**: "FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders". ICLR(2021) [[PDF]](https://openreview.net/pdf?id=N6JECD-PI5w) 
 * **Context-Debias**: "Debiasing Pre-trained Contextualised Embeddings". EACL(2021) [[PDF]](https://aclanthology.org/2021.eacl-main.107) [[CODE]](https://github.com/kanekomasahiro/context-debias)
+* **Occupation Data**: "Good Secretaries, Bad Truck Drivers? Occupational Gender Stereotypes in Sentiment Analysis". EACL(2021) [[PDF]](https://aclanthology.org/W19-3809/) [[CODE]](https://github.com/jayadevbhaskaran/gendered-sentiment)
 
 ### Large Language Models
 * **Few-Shot Data Interventions**: "Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions". ACL(2023) [[PDF]](https://aclanthology.org/2023.acl-short.30/)[[CODE]](https://github.com/himansh005/data_debias) 
