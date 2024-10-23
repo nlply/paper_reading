@@ -7,6 +7,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 - [Information Theory](#information-theory)
 - [Dataset Construction](#dataset-construction)
 - [Bias Suppression](#bias-suppression)
+- [Others](#others)
 ***
 
 ## Deep Learning in NLP
