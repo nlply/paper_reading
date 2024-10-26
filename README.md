@@ -16,7 +16,11 @@ Reading lists for papers, including but not limited to Natural Language Processi
 ## Debiasing
 
 ### Survey
-* **Empirical Survey**: "An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models". ACL(2022) [[PDF]](https://aclanthology.org/2022.acl-long.132/)[[CODE]](https://github.com/mcgill-nlp/bias-bench) 
+* **Empirical Survey**: "An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models". ACL(2022) [[PDF]](https://aclanthology.org/2022.acl-long.132/)
+
+### Measure
+* **Measure Biases&Harms**: "On Measures of Biases and Harms in NLP". AACL(2022) [[PDF]](https://arxiv.org/pdf/2108.03362)[[CODE]](https://github.com/mcgill-nlp/bias-bench) 
+
 
 ### Static Embeddings
 * **Gender-Neutral**: "Gender-preserving Debiasing for Pre-trained Word Embeddings". ACL(2019) [[PDF]](https://aclanthology.org/P19-1160) [[CODE]](https://github.com/kanekomasahiro/gp_debias)
@@ -39,7 +43,6 @@ Reading lists for papers, including but not limited to Natural Language Processi
 
 
 ## Information Theory
-
 * **Embedding-MI**: "Estimating Mutual Information Between Dense Word Embeddings". ACL(2020) [[PDF]](https://aclanthology.org/2020.acl-main.741.pdf) [[CODE]](https://github.com/babylonhealth/corrsim)
 * **MI-Max**: "A Mutual Information Maximization Perspective of Language Representation Learning". ACL(2020) [[PDF]](https://aclanthology.org/2020.acl-main.741.pdf) [[CODE]](https://github.com/babylonhealth/corrsim)
 
