@@ -62,6 +62,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 ## Others
 * **Wiki Bias**: "Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia". ACL(2021) [[PDF]](https://aclanthology.org/2021.acl-short.45) [[CODE]](https://github.com/PlusLabNLP/ee-wiki-bias)
 * **Annotator Demographics Matter**: "When Do Annotator Demographics Matter? Measuring the Influence of Annotator Demographics with the POPQUORN Dataset". LAW-XVII@ACL(2023) [[PDF]](https://aclanthology.org/2023.law-1.25/) [[CODE]](https://github.com/Jiaxin-Pei/potato-prolific-dataset)
+* **Label Debias**: "Beyond Performance: Quantifying and Mitigating Label Bias in LLMs". NAACL(2024) [[PDF]](https://aclanthology.org/2024.naacl-long.378) [[CODE]](https://github.com/schwartz-lab-NLP/label-bias)
 
 
 [Back to Top](#paper-reading)
