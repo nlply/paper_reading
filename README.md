@@ -56,6 +56,8 @@ Reading lists for papers, including but not limited to Natural Language Processi
 ## Bias Suppression
 * **Prompt Bias Suppression**: "In-Contextual Gender Bias Suppression for Large Language Models". Findings of EACL(2023) [[PDF]](https://aclanthology.org/2024.findings-eacl) [[CODE]](https://github.com/LivNLP/prompt_bias_suppression.git)
 
+## impicit bias
+* **Explicit and Implicit Gender**: "Probing Explicit and Implicit Gender Bias through LLM Conditional Text Generation". Findings of EACL(2023) [[PDF]](https://arxiv.org/pdf/2311.00306) 
 
 ## Others
 * **Wiki Bias**: "Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia". ACL(2021) [[PDF]](https://aclanthology.org/2021.acl-short.45) [[CODE]](https://github.com/PlusLabNLP/ee-wiki-bias)
