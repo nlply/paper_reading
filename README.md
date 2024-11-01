@@ -40,6 +40,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 
 ### Large Language Models
 * **Few-Shot Data Interventions**: "Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions". ACL(2023) [[PDF]](https://aclanthology.org/2023.acl-short.30/)[[CODE]](https://github.com/himansh005/data_debias) 
+* **Label Bias in LLMs**: "Beyond Performance: Quantifying and Mitigating Label Bias in LLMs". NAACL(2024) [[PDF]](https://aclanthology.org/2024.naacl-long.378/)[[CODE]](https://github.com/schwartz-lab-NLP/label-bias) 
 
 
 ## Information Theory
