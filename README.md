@@ -42,6 +42,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Few-Shot Data Interventions**: "Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions". ACL(2023) [[PDF]](https://aclanthology.org/2023.acl-short.30/)[[CODE]](https://github.com/himansh005/data_debias) 
 * **Label Bias in LLMs**: "Beyond Performance: Quantifying and Mitigating Label Bias in LLMs". NAACL(2024) [[PDF]](https://aclanthology.org/2024.naacl-long.378/)[[CODE]](https://github.com/schwartz-lab-NLP/label-bias) 
 * **Conceptor-Aided Debiasing**: "Conceptor-Aided Debiasing of Large Language Models". EMNLP(2023) [[PDF]](https://aclanthology.org/2023.emnlp-main.661)
+* **Likelihood-based Mitigation**: "Likelihood-based Mitigation of Evaluation Bias in Large Language Models". Arxiv [[PDF]](https://arxiv.org/pdf/2402.15987)
 
 
 ## Information Theory
@@ -58,7 +59,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 ## Bias Suppression
 * **Prompt Bias Suppression**: "In-Contextual Gender Bias Suppression for Large Language Models". Findings of EACL(2023) [[PDF]](https://aclanthology.org/2024.findings-eacl) [[CODE]](https://github.com/LivNLP/prompt_bias_suppression.git)
 
-## impicit bias
+## Impicit Bias
 * **Explicit and Implicit Gender**: "Probing Explicit and Implicit Gender Bias through LLM Conditional Text Generation". Findings of EACL(2023) [[PDF]](https://arxiv.org/pdf/2311.00306) 
 
 ## Others
