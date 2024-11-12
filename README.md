@@ -13,6 +13,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 ## Deep Learning in NLP
 * **Data Augmentation**: "A Survey of Data Augmentation Approaches for NLP". ACL-Findings(2021) [[PDF]](https://arxiv.org/abs/2105.03075)
 * **RAG**: "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks". NeurIPS(2020) [[PDF]](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
+* **DPR**: "Dense Passage Retrieval for Open-Domain Question Answering". EMNLP(2020) [[PDF]](https://aclanthology.org/2020.emnlp-main.550.pdf)
 
 ## Debiasing
 
