@@ -9,7 +9,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 - [Bias Suppression](#bias-suppression)
 - [Others](#others)
 ***
-
+* **Thinking Fair and Slow**: "“Thinking” Fair and Slow: On the Efficacy of Structured Prompts for Debiasing Language Models". EMNLP(2024) [[PDF]](https://aclanthology.org/2024.emnlp-main.13/)
 * **Regard Dataset**: "The Woman Worked as a Babysitter: On Biases in Language Generation". EMNLP-IJCNLP(2019) [[PDF]](https://aclanthology.org/D19-1339/)[[CODE]](https://github.com/ewsheng/nlg-bias)
 
 
