@@ -10,6 +10,9 @@ Reading lists for papers, including but not limited to Natural Language Processi
 - [Others](#others)
 ***
 
+* **Regard Dataset**: "The Woman Worked as a Babysitter: On Biases in Language Generation". EMNLP-IJCNLP(2019) [[PDF]](https://aclanthology.org/D19-1339/)[[CODE]](https://github.com/ewsheng/nlg-bias)
+
+
 ## Deep Learning in NLP
 * **Data Augmentation**: "A Survey of Data Augmentation Approaches for NLP". ACL-Findings(2021) [[PDF]](https://arxiv.org/abs/2105.03075)
 * **RAG**: "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks". NeurIPS(2020) [[PDF]](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
