@@ -14,7 +14,8 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Regard V3**: "Towards Controllable Biases in Language Generation". EMNLP-Findings(2020) [[PDF]](https://aclanthology.org/2020.findings-emnlp.291/)[[CODE]](https://github.com/ewsheng/controllable-nlg-biases)
 * **Bias in Bios**: "Bias in Bios: A Case Study of Semantic Representation Bias in a High-Stakes Setting". FAT(2019) [[PDF]](https://arxiv.org/pdf/1901.09451)[[CODE]](https://github.com/Microsoft/biosbias)
 * **Tree Structure Reasoning**: "TREA: Tree-Structure Reasoning Schema for Conversational Recommendation". ACL(2023) [[PDF]](https://aclanthology.org/2023.acl-long.167/)[[CODE]](https://github.com/WindyLee0822/TREA)
-* **SEER**: “SEER: Facilitating Structured Reasoning and Explanation via Reinforcement Learning”. ACL(2024) [[PDF]](https://aclanthology.org/2024.acl-long.321/)[[CODE]](https://github.com/Chen-GX/SEER)
+* **SEER**: "SEER: Facilitating Structured Reasoning and Explanation via Reinforcement Learning". ACL(2024) [[PDF]](https://aclanthology.org/2024.acl-long.321/)[[CODE]](https://github.com/Chen-GX/SEER)
+* **SEER**: "Trustllm: Trustworthiness in large language models". ICML(2024) [[PDF]](https://arxiv.org/abs/2401.05561)[[CODE]](https://github.com/HowieHwong/TrustLLM)
 
 
 
