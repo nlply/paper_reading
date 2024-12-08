@@ -16,6 +16,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Tree Structure Reasoning**: "TREA: Tree-Structure Reasoning Schema for Conversational Recommendation". ACL(2023) [[PDF]](https://aclanthology.org/2023.acl-long.167/)[[CODE]](https://github.com/WindyLee0822/TREA)
 * **SEER**: "SEER: Facilitating Structured Reasoning and Explanation via Reinforcement Learning". ACL(2024) [[PDF]](https://aclanthology.org/2024.acl-long.321/)[[CODE]](https://github.com/Chen-GX/SEER)
 * **TrustLLM**: "Trustllm: Trustworthiness in large language models". ICML(2024) [[PDF]](https://arxiv.org/abs/2401.05561)[[CODE]](https://github.com/HowieHwong/TrustLLM)[[website]](https://howiehwong.github.io/TrustLLM/index.html)
+* **Entailment Trees**: "Explaining Answers with Entailment Trees". EMNLP(2021) [[PDF]](https://aclanthology.org/2021.emnlp-main.585/)[[CODE]](https://allenai.org/data/entailmentbank)
 
 
 
