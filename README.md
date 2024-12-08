@@ -18,6 +18,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **TrustLLM**: "Trustllm: Trustworthiness in large language models". ICML(2024) [[PDF]](https://arxiv.org/abs/2401.05561)[[CODE]](https://github.com/HowieHwong/TrustLLM)[[website]](https://howiehwong.github.io/TrustLLM/index.html)
 * **Entailment Trees**: "Explaining Answers with Entailment Trees". EMNLP(2021) [[PDF]](https://aclanthology.org/2021.emnlp-main.585/)[[CODE]](https://allenai.org/data/entailmentbank)
 * **LLM Data Annotation**: "Large Language Models for Data Annotation and Synthesis: A Survey". EMNLP(2024) [[PDF]](https://aclanthology.org/2024.emnlp-main.54.pdf)
+* **Free-Text Explanation**: "Reframing Human-AI Collaboration for Generating Free-Text Explanations". NAACL(2022) [[PDF]](https://aclanthology.org/2022.naacl-main.47.pdf)[[CODE]](https://github.com/allenai/few_shot_explanations/)
 
 
 
