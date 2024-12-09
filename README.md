@@ -22,6 +22,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Bias-NLI**: "On Measuring and Mitigating Biased Inferences of Word Embeddings". AAAI(2019) [[PDF]](https://arxiv.org/pdf/1908.09369)
 * **Gaps**: "The Gaps between Pre-train and Downstream Settings in Bias Evaluation and Debiasing". COLING(2025) [[PDF]](https://arxiv.org/pdf/2401.08511)
 * **Self-Correction**: "The Capacity for Moral Self-Correction in Large Language Models". ArXiv(2023) [[PDF]](https://arxiv.org/abs/2302.07459)
+* **BBQ**: "BBQ: A Hand-Built Bias Benchmark for Question Answering ". ACL-Findings(2022) [[PDF]](https://aclanthology.org/2022.findings-acl.165.pdf)[[CODE]](https://github.com/nyu-mll/BBQ)
 
 
 
