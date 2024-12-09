@@ -21,6 +21,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Free-Text Explanation**: "Reframing Human-AI Collaboration for Generating Free-Text Explanations". NAACL(2022) [[PDF]](https://aclanthology.org/2022.naacl-main.47.pdf)[[CODE]](https://github.com/allenai/few_shot_explanations/)
 * **Bias-NLI**: "On Measuring and Mitigating Biased Inferences of Word Embeddings". AAAI(2019) [[PDF]](https://arxiv.org/pdf/1908.09369)
 * **Gaps**: "The Gaps between Pre-train and Downstream Settings in Bias Evaluation and Debiasing". COLING(2025) [[PDF]](https://arxiv.org/pdf/2401.08511)
+* **Self-Correction**: "The Capacity for Moral Self-Correction in Large Language Models". ArXiv(2023) [[PDF]](https://arxiv.org/abs/2302.07459)
 
 
 
