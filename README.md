@@ -24,6 +24,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Self-Correction**: "The Capacity for Moral Self-Correction in Large Language Models". ArXiv(2023) [[PDF]](https://arxiv.org/abs/2302.07459)
 * **BBQ**: "BBQ: A Hand-Built Bias Benchmark for Question Answering ". ACL-Findings(2022) [[PDF]](https://aclanthology.org/2022.findings-acl.165.pdf)[[CODE]](https://github.com/nyu-mll/BBQ)
 * **BNLI**: "Evaluating gender bias of pre-trained language models in natural language inference by considering all labels". LREC-COLING(2024) [[PDF]](https://aclanthology.org/2024.lrec-main.566/)
+* **Adversarial NLI**: "Adversarial NLI: A New Benchmark for Natural Language Understanding". ACL(2020) [[PDF]](https://aclanthology.org/2020.acl-main.441.pdf)
 
 
 
