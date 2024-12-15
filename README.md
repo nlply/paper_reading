@@ -27,7 +27,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Adversarial NLI**: "Adversarial NLI: A New Benchmark for Natural Language Understanding". ACL(2020) [[PDF]](https://aclanthology.org/2020.acl-main.441.pdf)
 * **SEAT**: "On Measuring Social Biases in Sentence Encoders". NAACL(2019) [[PDF]](https://aclanthology.org/N19-1063/)
 * **Implicit Rangking** "A Study of Implicit Ranking Unfairness in Large Language Models". EMNLP Findings(2024) [[PDF]](https://aclanthology.org/2024.findings-emnlp.467.pdf) [[CODE]](https://github.com/XuChen0427/Implicit_Rank_Unfairness)
-* **Occupational Bias** "Causally Testing Gender Bias in LLMs: A Case Study on Occupational Bias" NeurIPS(2024) [[PDF]](https://arxiv.org/abs/2212.10678)
+* **Occupational Bias** "Causally Testing Gender Bias in LLMs: A Case Study on Occupational Bias" NeurIPS(2024) [[PDF]](https://arxiv.org/abs/2212.10678) [[CODE]](https://github.com/chenyuen0103/gender-bias)
 
 
 
