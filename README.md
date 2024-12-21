@@ -35,6 +35,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Theory-Grounded** "Theory-Grounded Measurement of U.S. Social Stereotypes in English Language Models". NAACL(2022) [[PDF]](https://aclanthology.org/2022.naacl-main.92/)
 * **Marked Personas** "Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models". ACL(2024) [[PDF]](https://aclanthology.org/2023.acl-long.84/)
 * **SODAPOP** "SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models". EACL(2023) [[PDF]](https://aclanthology.org/2023.eacl-main.116/)
+* **DDRel Dataset** "DDRel: A New Dataset for Interpersonal Relation Classification in Dyadic Dialogues" AAAI(2021) [[PDF]](https://arxiv.org/abs/2012.02553)
 
 
 
