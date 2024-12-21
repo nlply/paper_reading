@@ -30,8 +30,9 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **SEAT**: "On Measuring Social Biases in Sentence Encoders". NAACL(2019) [[PDF]](https://aclanthology.org/N19-1063/)
 * **Implicit Rangking** "A Study of Implicit Ranking Unfairness in Large Language Models". EMNLP Findings(2024) [[PDF]](https://aclanthology.org/2024.findings-emnlp.467.pdf) [[CODE]](https://github.com/XuChen0427/Implicit_Rank_Unfairness)
 * **OCCUGENDER** "Causally Testing Gender Bias in LLMs: A Case Study on Occupational Bias". NeurIPS(2024) [[PDF]](https://arxiv.org/abs/2212.10678) [[CODE]](https://github.com/chenyuen0103/gender-bias)
-* **Salmon Paper** "Stereotyping Norwegian salmon: An inventory of pitfalls in fairness benchmark datasets". [[PDF]](https://aclanthology.org/2021.acl-long.81/)
-* **Romantic Relationship Prediction** "On the Influence of Gender and Race in Romantic Relationship Prediction from Large Language Models" [[PDF]](https://aclanthology.org/2024.emnlp-main.29.pdf)
+* **Salmon Paper** "Stereotyping Norwegian salmon: An inventory of pitfalls in fairness benchmark datasets". ACL(2021) [[PDF]](https://aclanthology.org/2021.acl-long.81/)
+* **Romantic Relationship Prediction** "On the Influence of Gender and Race in Romantic Relationship Prediction from Large Language Models". EMNLP(2024) [[PDF]](https://aclanthology.org/2024.emnlp-main.29.pdf)
+* **Theory-Grounded** "Theory-Grounded Measurement of U.S. Social Stereotypes in English Language Models" NAACL(2022) [[PDF]](https://aclanthology.org/2022.naacl-main.92/)
 
 
 
