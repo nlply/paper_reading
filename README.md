@@ -38,6 +38,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **DDRel Dataset** "DDRel: A New Dataset for Interpersonal Relation Classification in Dyadic Dialogues" AAAI(2021) [[PDF]](https://arxiv.org/abs/2012.02553)
 * **Hiring Decisions** "Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?". ACL(2024) [[PDF]](https://aclanthology.org/2024.acl-short.37/)
 * **First Name Biases** "Nichelle and Nancy: The Influence of Demographic Attributes and Tokenization Length on First Name Biases" ACL(2023) [[PDF]](https://aclanthology.org/2023.acl-short.34/)
+* **ORPO** "ORPO: Monolithic Preference Optimization without Reference Model". EMNLP(2024) [[PDF]](https://aclanthology.org/2024.emnlp-main.626.pdf)
 
 
 
