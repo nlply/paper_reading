@@ -43,6 +43,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Word Meanings Adapt** "Understanding the Semantic Space:  How Word Meanings Dynamically Adapt in the Context of a Sentence". SemSpace(2021) [[PDF]](https://aclanthology.org/2021.semspace-1.1/)
 * **Answer is all you need** "Answer is All You Need: Instruction-following Text Embedding via Answering the Question" ACL(2024) [[PDF]](https://aclanthology.org/2024.acl-long.27.pdf)
 * **Social IQa** "Social IQa: Commonsense Reasoning about Social Interactions". EMNLP-IJCNLP(2019) [[PDF]](https://aclanthology.org/D19-1454/) [[CODE]](https://github.com/haozhe-an/SODAPOP)
+* **Symbolic Knowledge Distillation** "Symbolic Knowledge Distillation: from General Language Models to Commonsense Models". NAACL(2022) [[PDF]](https://aclanthology.org/2022.naacl-main.341.pdf)
 
 
 
