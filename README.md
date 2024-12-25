@@ -44,6 +44,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Answer is all you need** "Answer is All You Need: Instruction-following Text Embedding via Answering the Question" ACL(2024) [[PDF]](https://aclanthology.org/2024.acl-long.27.pdf)
 * **Social IQa** "Social IQa: Commonsense Reasoning about Social Interactions". EMNLP-IJCNLP(2019) [[PDF]](https://aclanthology.org/D19-1454/) [[CODE]](https://github.com/haozhe-an/SODAPOP)
 * **Symbolic Knowledge Distillation** "Symbolic Knowledge Distillation: from General Language Models to Commonsense Models". NAACL(2022) [[PDF]](https://aclanthology.org/2022.naacl-main.341.pdf)
+* **Implicit User Intention Understanding** "Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents". ACL(2024) [[PDF]](https://aclanthology.org/2024.acl-long.61.pdf)
 
 
 
