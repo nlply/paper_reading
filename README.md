@@ -48,6 +48,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **SOCIAL IQA** "SOCIAL IQA: Commonsense Reasoning about Social Interactions". EMNLP-IJCNLP(2019) [[PDF]](https://aclanthology.org/D19-1454/)
 * **Low Frequency Names** "Low Frequency Names Exhibit Bias and Overfitting in Contextualizing Language Models". EMNLP(2021) [[PDF]](https://aclanthology.org/2021.emnlp-main.41.pdf)
 * **Measure Fainess in Generative Models** "On Measuring Fairness in Generative Models". NeurIPS(2023) [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/220165f9c7f51163b73c8c7fff578b4e-Abstract-Conference.html)
+* **Dependency-Based Semantic Space** "Dependency-Based Construction of Semantic Space Models". CL(2002) [[PDF]](https://aclanthology.org/J07-2002/)
 
 
 
