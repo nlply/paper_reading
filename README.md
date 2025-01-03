@@ -49,6 +49,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Low Frequency Names** "Low Frequency Names Exhibit Bias and Overfitting in Contextualizing Language Models". EMNLP(2021) [[PDF]](https://aclanthology.org/2021.emnlp-main.41.pdf)
 * **Measure Fainess in Generative Models** "On Measuring Fairness in Generative Models". NeurIPS(2023) [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/220165f9c7f51163b73c8c7fff578b4e-Abstract-Conference.html)
 * **Dependency-Based Semantic Space** "Dependency-Based Construction of Semantic Space Models". CL(2002) [[PDF]](https://aclanthology.org/J07-2002/)
+* **Sentence BERT** "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks" ArXiv(2019) [[PDF]](https://arxiv.org/abs/1908.10084)
 
 
 
