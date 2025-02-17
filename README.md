@@ -54,6 +54,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Bias Vector** "Bias Vector: Mitigating Biases in Language Models with Task Arithmetic Approach" ArXiv(2024) [[PDF]](https://arxiv.org/abs/2412.11679)
 * **Multi-Objective Approach** "Mitigating Social Bias in Large Language Models: A Multi-Objective Approach within a Multi-Agent Framework" ArXiv(2024) [[PDF]](https://arxiv.org/abs/2412.15504)
 * **Humans or LLMs as the Judge** "Humans or LLMs as the Judge? A Study on Judgement Bias" EMNLP(2024) [[PDF]](https://aclanthology.org/2024.emnlp-main.474/)
+* **Personas Is Not Helpful** "When "A Helpful Assistant" Is Not Really Helpful: Personas in System Prompts Do Not Improve Performances of Large Language Models" [[PDF]](https://arxiv.org/abs/2311.10054)
 
 
 
