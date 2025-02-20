@@ -56,6 +56,10 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Humans or LLMs as the Judge** "Humans or LLMs as the Judge? A Study on Judgement Bias" EMNLP(2024) [[PDF]](https://aclanthology.org/2024.emnlp-main.474/)
 * **Personas Is Not Helpful** "When "A Helpful Assistant" Is Not Really Helpful: Personas in System Prompts Do Not Improve Performances of Large Language Models" [[PDF]](https://arxiv.org/abs/2311.10054)
 * **Measuring** "Ask LLMs Directly, “What shapes your bias? ”: Measuring Social Bias in Large Language Models"
+* **MBTI Evaluation** "Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models"
+* **MBTI by LLMs** "Can ChatGPT Assess Human Personalities? A General Evaluation Framework"
+* **MBTI Detection** "Can Large Language Models Understand You Better? An MBTI Personality Detection Dataset Aligned with Population Traits"
+* **Role play** "When “A Helpful Assistant” Is Not Really Helpful: Personas in System Prompts Do Not Improve Performances of Large Language Models"
 
 
 
