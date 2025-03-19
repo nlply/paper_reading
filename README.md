@@ -63,6 +63,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
 * **Quantifying Sensitivity** "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting"
 * **In-Context Impersonation** "In-Context Impersonation Reveals Large Language Models' Strengths and Biases"
+* **VISBIAS** "VISBIAS: Measuring Explicit and Implicit Social Biases in Vision Language Models"
 
 
 
