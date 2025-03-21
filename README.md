@@ -69,6 +69,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Gender Bias on Wikipedia** "Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia"
 * **Clinical Bias** "CLIMB: A Benchmark of Clinical Bias in Large Language Models"
 * **Personal Biases** "Are personalized stochastic parrots more dangerous? evaluating persona biases in dialogue systems"
+* **Effect Compression** "Understanding the Effect of Model Compression on Social Bias in Large Language Models"
  
 
 
