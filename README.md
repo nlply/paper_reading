@@ -66,7 +66,8 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **VISBIAS** "VISBIAS: Measuring Explicit and Implicit Social Biases in Vision Language Models"
 * **Two Hundred Sentiment** "Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems"
 * **No LLM is Free** "No LLM is Free From Bias: A Comprehensive Study of Bias Evaluation in Large Language models"
-
+* **Gender Bias on Wikipedia** "Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia"
+ 
 
 
 ## Deep Learning in NLP
