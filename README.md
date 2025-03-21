@@ -70,6 +70,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Clinical Bias** "CLIMB: A Benchmark of Clinical Bias in Large Language Models"
 * **Personal Biases** "Are personalized stochastic parrots more dangerous? evaluating persona biases in dialogue systems"
 * **Effect Compression** "Understanding the Effect of Model Compression on Social Bias in Large Language Models"
+* **Uncertainty Estimation** "Uncertainty Estimation for Debiased Models: Does Fairness Hurt Reliability?"
  
 
 
