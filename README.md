@@ -72,6 +72,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Effect Compression** "Understanding the Effect of Model Compression on Social Bias in Large Language Models"
 * **Uncertainty Estimation** "Uncertainty Estimation for Debiased Models: Does Fairness Hurt Reliability?"
 * **Mitigating Bias** "Mitigating Word Bias in Zero-shot Prompt-based Classifiers"
+* **BiasAlert** "BiasAlert: A Plug-and-play Tool for Social Bias Detection in LLMs"
  
 
 
