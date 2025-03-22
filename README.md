@@ -74,6 +74,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Mitigating Bias** "Mitigating Word Bias in Zero-shot Prompt-based Classifiers"
 * **BiasAlert** "BiasAlert: A Plug-and-play Tool for Social Bias Detection in LLMs"
 * **Short-Term** "Evaluating Short-Term Temporal Fluctuations of Social Biases in Social Media Data and Masked Language Models"
+* **Cross-Lingual Training** "Cross-Lingual Training for Automatic Question Generation"
  
 
 
