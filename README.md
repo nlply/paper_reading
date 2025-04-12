@@ -80,6 +80,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Cross-Lingual Transfer** "Cross-Lingual Transfer of Debiasing and Detoxification in Multilingual LLMs: An Extensive Investigation"
 * **Social Bias** "Do LLMs Exhibit Human-like Response Biases? A Case Study in Survey Design"
 * **MBBQ** "MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs"
+* **DPO and Toxicity** "A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity"
  
 
 
