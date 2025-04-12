@@ -78,6 +78,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **BiasDPO** "BiasDPO: Mitigating Bias in Language Models through Direct Preference Optimization"
 * **ReSS** "Your Stereotypical Mileage may Vary: Practical Challenges of Evaluating Biases in Multiple Languages and Cultural Contexts"
 * **Cross-Lingual Transfer** "Cross-Lingual Transfer of Debiasing and Detoxification in Multilingual LLMs: An Extensive Investigation"
+* **Social Bias** "Do LLMs Exhibit Human-like Response Biases? A Case Study in Survey Design"
  
 
 
