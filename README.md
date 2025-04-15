@@ -82,6 +82,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **MBBQ** "MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs"
 * **DPO and Toxicity** "A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity"
 * **Across Languages** "Preference Tuning For Toxicity Mitigation Generalizes Across Languages"
+* **Roly-Playing** "Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs"
  
 
 
