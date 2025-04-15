@@ -84,6 +84,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Across Languages** "Preference Tuning For Toxicity Mitigation Generalizes Across Languages"
 * **Roly-Playing** "Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs"
 * **Persona-assigned LMs** "Toxicity in ChatGPT: Analyzing Persona-assigned Language Models"
+* **High-Impact Concepts** "Explaining Language Model Predictions with High-Impact Concepts"
  
 
 
