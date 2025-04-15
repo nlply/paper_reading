@@ -85,6 +85,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Roly-Playing** "Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs"
 * **Persona-assigned LMs** "Toxicity in ChatGPT: Analyzing Persona-assigned Language Models"
 * **High-Impact Concepts** "Explaining Language Model Predictions with High-Impact Concepts"
+* **POTATO** "POTATO: The Portable Text Annotation Tool"
  
 
 
