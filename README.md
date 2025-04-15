@@ -86,6 +86,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Persona-assigned LMs** "Toxicity in ChatGPT: Analyzing Persona-assigned Language Models"
 * **High-Impact Concepts** "Explaining Language Model Predictions with High-Impact Concepts"
 * **POTATO** "POTATO: The Portable Text Annotation Tool"
+* **Bias Amplification** "Bias Amplification in Language Model Evolution: An Iterated Learning Perspective"
  
 
 
