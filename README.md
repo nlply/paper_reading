@@ -60,8 +60,6 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **MBTI by LLMs** "Can ChatGPT Assess Human Personalities? A General Evaluation Framework"
 * **MBTI Detection** "Can Large Language Models Understand You Better? An MBTI Personality Detection Dataset Aligned with Population Traits"
 * **Role play** "When “A Helpful Assistant” Is Not Really Helpful: Personas in System Prompts Do Not Improve Performances of Large Language Models"
-* **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
-* **Quantifying Sensitivity** "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting"
 * **In-Context Impersonation** "In-Context Impersonation Reveals Large Language Models' Strengths and Biases"
 * **VISBIAS** "VISBIAS: Measuring Explicit and Implicit Social Biases in Vision Language Models"
 * **Two Hundred Sentiment** "Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems"
@@ -88,7 +86,9 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **POTATO** "POTATO: The Portable Text Annotation Tool"
 * **Bias Amplification** "Bias Amplification in Language Model Evolution: An Iterated Learning Perspective"
  
-
+## Prompt Sensitivity
+* **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
+* **Quantifying Sensitivity** "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting"
 
 ## Deep Learning in NLP
 * **Data Augmentation**: "A Survey of Data Augmentation Approaches for NLP". ACL-Findings(2021) [[PDF]](https://arxiv.org/abs/2105.03075)
