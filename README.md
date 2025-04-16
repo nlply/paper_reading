@@ -92,6 +92,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Persona Double-edged Sword** "Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks"
 * **POSIX** "POSIX: A Prompt Sensitivity Index For Large Language Models"
 
+## Learning Dynamics
 
 ## Deep Learning in NLP
 * **Data Augmentation**: "A Survey of Data Augmentation Approaches for NLP". ACL-Findings(2021) [[PDF]](https://arxiv.org/abs/2105.03075)
