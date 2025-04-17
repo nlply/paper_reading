@@ -85,6 +85,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **High-Impact Concepts** "Explaining Language Model Predictions with High-Impact Concepts"
 * **POTATO** "POTATO: The Portable Text Annotation Tool"
 * **Bias Amplification** "Bias Amplification in Language Model Evolution: An Iterated Learning Perspective"
+* **Multilingual Bias** "Do Multilingual Large Language Models Mitigate Stereotype Bias?"
  
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
