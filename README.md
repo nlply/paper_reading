@@ -87,6 +87,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Bias Amplification** "Bias Amplification in Language Model Evolution: An Iterated Learning Perspective"
 * **Multilingual Bias** "Do Multilingual Large Language Models Mitigate Stereotype Bias?"
 * **ALI-Agent** "ALI-Agent: Assessing LLMs'Alignment with Human Values via Agent-based Evaluation"
+* **CultureLLM** "CultureLLM: Incorporating Cultural Differences into Large Language Models"
  
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
