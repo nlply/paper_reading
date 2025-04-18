@@ -88,13 +88,16 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Multilingual Bias** "Do Multilingual Large Language Models Mitigate Stereotype Bias?"
 * **ALI-Agent** "ALI-Agent: Assessing LLMs'Alignment with Human Values via Agent-based Evaluation"
 * **CultureLLM** "CultureLLM: Incorporating Cultural Differences into Large Language Models"
- 
+* **Edite DPO** "Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity"
+* **DetoxDPO** "A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity"
+
+
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
 * **Quantifying Sensitivity** "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting"
 * **Persona Double-edged Sword** "Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks"
 * **POSIX** "POSIX: A Prompt Sensitivity Index For Large Language Models"
-* **xxx** "Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity"
+
 
 ## Learning Dynamics
 
