@@ -94,6 +94,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Quantifying Sensitivity** "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting"
 * **Persona Double-edged Sword** "Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks"
 * **POSIX** "POSIX: A Prompt Sensitivity Index For Large Language Models"
+* **xxx** "Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity"
 
 ## Learning Dynamics
 
