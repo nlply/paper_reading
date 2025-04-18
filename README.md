@@ -55,9 +55,9 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Multi-Objective Approach** "Mitigating Social Bias in Large Language Models: A Multi-Objective Approach within a Multi-Agent Framework" ArXiv(2024) [[PDF]](https://arxiv.org/abs/2412.15504)
 * **Humans or LLMs as the Judge** "Humans or LLMs as the Judge? A Study on Judgement Bias" EMNLP(2024) [[PDF]](https://aclanthology.org/2024.emnlp-main.474/)
 * **Personas Is Not Helpful** "When "A Helpful Assistant" Is Not Really Helpful: Personas in System Prompts Do Not Improve Performances of Large Language Models" [[PDF]](https://arxiv.org/abs/2311.10054)
-* **Measuring** "Ask LLMs Directly, “What shapes your bias? ”: Measuring Social Bias in Large Language Models"
-* **MBTI Evaluation** "Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models"
-* **MBTI by LLMs** "Can ChatGPT Assess Human Personalities? A General Evaluation Framework"
+* **Measuring** "Ask LLMs Directly, “What shapes your bias? ”: Measuring Social Bias in Large Language Models" findings of ACL(2024) [[PDF]](https://aclanthology.org/2024.findings-acl.954.pdf)
+* **MBTI Evaluation** "Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models" ArXiv(2024) [[PDF]](https://arxiv.org/abs/2307.16180)
+* **MBTI by LLMs** "Can ChatGPT Assess Human Personalities? A General Evaluation Framework" findings of EMNLP(2023) [[PDF]](https://aclanthology.org/2023.findings-emnlp.84.pdf)
 * **MBTI Detection** "Can Large Language Models Understand You Better? An MBTI Personality Detection Dataset Aligned with Population Traits"
 * **Role play** "When “A Helpful Assistant” Is Not Really Helpful: Personas in System Prompts Do Not Improve Performances of Large Language Models"
 * **In-Context Impersonation** "In-Context Impersonation Reveals Large Language Models' Strengths and Biases"
