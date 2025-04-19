@@ -91,7 +91,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **DetoxDPO** "A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity"
 * **RealToxicityPrompts** "RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models"
 * **Human Like Responses** "Enhancing Human-Like Responses in Large Language Models"
-
+* **WikiBias** "Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
