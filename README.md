@@ -90,6 +90,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Edite DPO** "Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity"
 * **DetoxDPO** "A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity"
 * **RealToxicityPrompts** "RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models"
+* **Human Like Responses** "Enhancing Human-Like Responses in Large Language Models"
 
 
 ## Prompt Sensitivity
