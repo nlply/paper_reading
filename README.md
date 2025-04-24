@@ -94,6 +94,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **WikiBias** "Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia"
 * **WIKIBIAS** "WIKIBIAS: Detecting Multi-Span Subjective Biases in Language"
 * **SFT Debaising** "Do the Right Thing, Just Debias! Multi-Category Bias Mitigation Using LLMs"
+* **Reasoning Towards Fairness** "Reasoning Towards Fairness: Mitigating Bias in Language Models through Reasoning-Guided Fine-Tuning"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
