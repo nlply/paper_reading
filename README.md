@@ -96,6 +96,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **SFT Debaising** "Do the Right Thing, Just Debias! Multi-Category Bias Mitigation Using LLMs"
 * **Reasoning Towards Fairness** "Reasoning Towards Fairness: Mitigating Bias in Language Models through Reasoning-Guided Fine-Tuning"
 * **Detecting Stereotypes & Anti-Stereotypes** "Detecting Stereotypes and Anti-stereotypes the Correct Way Using Social Psychological Underpinnings"
+* **Subtle Biases** "Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
