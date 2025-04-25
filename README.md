@@ -98,6 +98,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Detecting Stereotypes & Anti-Stereotypes** "Detecting Stereotypes and Anti-stereotypes the Correct Way Using Social Psychological Underpinnings"
 * **Subtle Biases** "Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models"
 * **Belief Bias** "On the interaction of belief bias and explanations"
+* **Bias Neurons Elimination** "Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
