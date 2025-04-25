@@ -84,7 +84,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **High-Impact Concepts** "Explaining Language Model Predictions with High-Impact Concepts"
 * **POTATO** "POTATO: The Portable Text Annotation Tool"
 * **Bias Amplification** "Bias Amplification in Language Model Evolution: An Iterated Learning Perspective" NeurIPS(2024) [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/4418f6a54f4314202688d77956e731ce-Paper-Conference.pdf)
-* **Multilingual Bias** "Do Multilingual Large Language Models Mitigate Stereotype Bias?"
+* **Multilingual Bias** "Do Multilingual Large Language Models Mitigate Stereotype Bias?" [[PDF]](https://openreview.net/pdf?id=KZrfBTrPey)
 * **ALI-Agent** "ALI-Agent: Assessing LLMs'Alignment with Human Values via Agent-based Evaluation"
 * **CultureLLM** "CultureLLM: Incorporating Cultural Differences into Large Language Models"
 * **Edite DPO** "Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity"
