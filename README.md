@@ -101,6 +101,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Bias Neurons Elimination** "Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination"
 * **Social Bias Knowledge** "Identifying and Mitigating Social Bias Knowledge in Language Models"
 * **Output Format Bias** "LLMs Are Biased Towards Output Formats! Systematically Evaluating and Mitigating Output Format Bias of LLMs"
+* **POSIX** "POSIX: A Prompt Sensitivity Index For Large Language Models"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
