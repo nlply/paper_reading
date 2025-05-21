@@ -110,6 +110,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Persona Double-edged Sword** "Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks"
 * **POSIX** "POSIX: A Prompt Sensitivity Index For Large Language Models"
 * **Critical Survey** "Language (Technology) is Power: A Critical Survey of “Bias” in NLP"
+* **BIASINSPECTOR** "BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents"
 
 
 ## Learning Dynamics
