@@ -103,6 +103,8 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Output Format Bias** "LLMs Are Biased Towards Output Formats! Systematically Evaluating and Mitigating Output Format Bias of LLMs"
 * **POSIX** "POSIX: A Prompt Sensitivity Index For Large Language Models"
 * **HBB** "Beneath the Surface: How Large Language Models Reflect Hidden Bias"
+* **Beyond Demographics** "Beyond Demographics: Fine-tuning Large Language Models to Predict Individuals’ Subjective Text Perceptions"
+* **Sociodemographic Prompting** "Sociodemographic Prompting is Not Yet an Effective Approach for Simulating Subjective Judgments with LLMs"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
