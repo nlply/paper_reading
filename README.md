@@ -114,6 +114,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **POSIX** "POSIX: A Prompt Sensitivity Index For Large Language Models"
 * **Critical Survey** "Language (Technology) is Power: A Critical Survey of “Bias” in NLP"
 * **BIASINSPECTOR** "BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents"
+* **PromptRobust** "PromptRobust: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts"
 
 
 ## Learning Dynamics
