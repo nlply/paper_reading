@@ -105,6 +105,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **HBB** "Beneath the Surface: How Large Language Models Reflect Hidden Bias"
 * **Beyond Demographics** "Beyond Demographics: Fine-tuning Large Language Models to Predict Individuals’ Subjective Text Perceptions"
 * **Sociodemographic Prompting** "Sociodemographic Prompting is Not Yet an Effective Approach for Simulating Subjective Judgments with LLMs"
+* **COBIAS** "COBIAS: Assessing the Contextual Reliability of Bias Benchmarks for Language Models"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
