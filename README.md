@@ -109,6 +109,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Bias Evaluation Survey** "No LLM is Free From Bias: A Comprehensive Study of Bias Evaluation in Large Language Models"
 * **Mitigating Word Bias** "Mitigating Word Bias in Zero-shot Prompt-based Classifiers"
 * **Abstain Hallucinate** "Don't Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration"
+* **OpinionsQA** "Whose Opinions Do Language Models Reflect?"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
