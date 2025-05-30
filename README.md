@@ -107,6 +107,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Sociodemographic Prompting** "Sociodemographic Prompting is Not Yet an Effective Approach for Simulating Subjective Judgments with LLMs"
 * **COBIAS** "COBIAS: Assessing the Contextual Reliability of Bias Benchmarks for Language Models"
 * **Bias Evaluation Survey** "No LLM is Free From Bias: A Comprehensive Study of Bias Evaluation in Large Language Models"
+* **Mitigating Word Bias** "Mitigating Word Bias in Zero-shot Prompt-based Classifiers"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
