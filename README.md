@@ -112,6 +112,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **OpinionsQA** "Whose Opinions Do Language Models Reflect?"
 * **LLMs' Sensitivity and Consistency** "What Did I Do Wrong? Quantifying LLMs' Sensitivity and Consistency to Prompt Engineering"
 * **Gender Encoding** "Gender Encoding Patterns in Pretrained Language Model Representations"
+* **Rethinking ICL** "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
