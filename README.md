@@ -124,6 +124,8 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **PromptRobust** "PromptRobust: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts"
 * **Calibrate Before Use** "Calibrate Before Use: Improving Few-Shot Performance of Language Models"
 * **Power-Disparate** "Unmasking Implicit Bias: Evaluating Persona-Prompted LLM Responses in Power-Disparate Social Scenarios"
+* **Fairness Dynamics** "Fairness Dynamics During Training"
+* **EuroGEST** "EuroGEST: Investigating gender stereotypes in multilingual language models"
 
 
 ## Learning Dynamics
