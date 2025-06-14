@@ -113,6 +113,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **LLMs' Sensitivity and Consistency** "What Did I Do Wrong? Quantifying LLMs' Sensitivity and Consistency to Prompt Engineering"
 * **Gender Encoding** "Gender Encoding Patterns in Pretrained Language Model Representations"
 * **Rethinking ICL** "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?"
+* **Provider Bias** "The Invisible Hand: Unveiling Provider Bias in Large Language Models for Code Generation"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
