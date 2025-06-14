@@ -114,6 +114,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Gender Encoding** "Gender Encoding Patterns in Pretrained Language Model Representations"
 * **Rethinking ICL** "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?"
 * **Provider Bias** "The Invisible Hand: Unveiling Provider Bias in Large Language Models for Code Generation"
+* **Proxy of Prediction Quality** "Measuring Social Biases in Masked Language Models by Proxy of Prediction Quality"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
