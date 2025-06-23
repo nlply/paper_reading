@@ -116,6 +116,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Provider Bias** "The Invisible Hand: Unveiling Provider Bias in Large Language Models for Code Generation"
 * **Proxy of Prediction Quality** "Measuring Social Biases in Masked Language Models by Proxy of Prediction Quality"
 * **Persona-Steered** "Evaluating Large Language Model Biases in Persona-Steered Generation"
+* **DIstributional Alignment Benchmark** "Benchmarking Distributional Alignment of Large Language Models"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
