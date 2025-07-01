@@ -117,6 +117,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Proxy of Prediction Quality** "Measuring Social Biases in Masked Language Models by Proxy of Prediction Quality"
 * **Persona-Steered** "Evaluating Large Language Model Biases in Persona-Steered Generation"
 * **DIstributional Alignment Benchmark** "Benchmarking Distributional Alignment of Large Language Models"
+* **Trick Tests** "Bias in Language Models: Beyond Trick Tests and Towards RUTEd Evaluation"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
