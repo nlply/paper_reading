@@ -121,6 +121,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Bias Amplification** "Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints"
 * **Claim** "The Impossibility of Fair LLMs"
 * **Persona-Steered** "Evaluating Large Language Model Biases in Persona-Steered Generation"
+* **Bias Across Families** "Media Bias Detection Across Families of Language Models"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
