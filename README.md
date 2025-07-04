@@ -119,6 +119,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **DIstributional Alignment Benchmark** "Benchmarking Distributional Alignment of Large Language Models"
 * **Trick Tests** "Bias in Language Models: Beyond Trick Tests and Towards RUTEd Evaluation"
 * **Bias Amplification** "Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints"
+* **Claim** "The Impossibility of Fair LLMs"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
