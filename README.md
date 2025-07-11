@@ -135,6 +135,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Power-Disparate** "Unmasking Implicit Bias: Evaluating Persona-Prompted LLM Responses in Power-Disparate Social Scenarios"
 * **Fairness Dynamics** "Fairness Dynamics During Training"
 * **EuroGEST** "EuroGEST: Investigating gender stereotypes in multilingual language models"
+* **Information-Theoretic Uncertainty** "An Information-Theoretic Perspective on Multi-LLM Uncertainty Estimation"
 
 
 ## Learning Dynamics
