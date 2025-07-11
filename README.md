@@ -122,6 +122,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Claim** "The Impossibility of Fair LLMs"
 * **Persona-Steered** "Evaluating Large Language Model Biases in Persona-Steered Generation"
 * **Bias Across Families** "Media Bias Detection Across Families of Language Models"
+* **Train MLM and CLM** "Should We Still Pretrain Encoders with Masked Language Modeling?"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
