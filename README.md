@@ -137,6 +137,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Fairness Dynamics** "Fairness Dynamics During Training"
 * **EuroGEST** "EuroGEST: Investigating gender stereotypes in multilingual language models"
 * **Information-Theoretic Uncertainty** "An Information-Theoretic Perspective on Multi-LLM Uncertainty Estimation"
+* **LM by LMs** "Language Modeling by Language Models"
 
 
 ## Learning Dynamics
