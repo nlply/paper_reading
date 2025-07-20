@@ -139,6 +139,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **EuroGEST** "EuroGEST: Investigating gender stereotypes in multilingual language models"
 * **Information-Theoretic Uncertainty** "An Information-Theoretic Perspective on Multi-LLM Uncertainty Estimation"
 * **LM by LMs** "Language Modeling by Language Models"
+* **Personality Alignment** "Personality Alignment of Large Language Models"
 
 
 ## Learning Dynamics
