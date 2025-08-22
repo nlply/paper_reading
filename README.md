@@ -141,6 +141,8 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Information-Theoretic Uncertainty** "An Information-Theoretic Perspective on Multi-LLM Uncertainty Estimation"
 * **LM by LMs** "Language Modeling by Language Models"
 * **Personality Alignment** "Personality Alignment of Large Language Models"
+* **Attention Heads Matter** "Which Attention Heads Matter for In-Context Learning?"
+
 
 
 ## Learning Dynamics
