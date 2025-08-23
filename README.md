@@ -125,6 +125,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Train MLM and CLM** "Should We Still Pretrain Encoders with Masked Language Modeling?"
 * **Diversity in LMs** "Improving Diversity in Language Models: When Temperature Fails, Change the Loss"
 * **FairJob** "FairJob: A Real-World Dataset for Fairness in Online Systems"
+* **Model Gradient** "Interpreting Language Models with Contrastive Explanations"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
