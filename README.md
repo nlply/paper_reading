@@ -126,6 +126,7 @@ Reading lists for papers, including but not limited to Natural Language Processi
 * **Diversity in LMs** "Improving Diversity in Language Models: When Temperature Fails, Change the Loss"
 * **FairJob** "FairJob: A Real-World Dataset for Fairness in Online Systems"
 * **Model Gradient** "Interpreting Language Models with Contrastive Explanations"
+* **LLM is RNN** "Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Search Space in LLMs"
 
 ## Prompt Sensitivity
 * **ProSA** "ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs"
