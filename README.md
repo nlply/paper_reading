@@ -147,6 +147,11 @@ Reading lists for papers, including but not limited to Natural Language Processi
 
 
 
+## Interpretability
+* **Function Vectors**: "Function Vectors in Large Language Models"
+
+
+
 ## Learning Dynamics
 
 ## Deep Learning in NLP
